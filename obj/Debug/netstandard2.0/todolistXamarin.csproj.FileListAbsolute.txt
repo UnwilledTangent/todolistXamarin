@@ -1,0 +1,13 @@
+C:\Users\Sean Tin\source\repos\todolistXamarin\todolistXamarin\todolistXamarin\bin\Debug\netstandard2.0\todolistXamarin.deps.json
+C:\Users\Sean Tin\source\repos\todolistXamarin\todolistXamarin\todolistXamarin\bin\Debug\netstandard2.0\todolistXamarin.dll
+C:\Users\Sean Tin\source\repos\todolistXamarin\todolistXamarin\todolistXamarin\obj\Debug\netstandard2.0\todolistXamarin.csprojAssemblyReference.cache
+C:\Users\Sean Tin\source\repos\todolistXamarin\todolistXamarin\todolistXamarin\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Sean Tin\source\repos\todolistXamarin\todolistXamarin\todolistXamarin\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Sean Tin\source\repos\todolistXamarin\todolistXamarin\todolistXamarin\obj\Debug\netstandard2.0\todolistXamarin.AssemblyInfoInputs.cache
+C:\Users\Sean Tin\source\repos\todolistXamarin\todolistXamarin\todolistXamarin\obj\Debug\netstandard2.0\todolistXamarin.AssemblyInfo.cs
+C:\Users\Sean Tin\source\repos\todolistXamarin\todolistXamarin\todolistXamarin\bin\Debug\netstandard2.0\ref\todolistXamarin.dll
+C:\Users\Sean Tin\source\repos\todolistXamarin\todolistXamarin\todolistXamarin\bin\Debug\netstandard2.0\todolistXamarin.pdb
+C:\Users\Sean Tin\source\repos\todolistXamarin\todolistXamarin\todolistXamarin\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Sean Tin\source\repos\todolistXamarin\todolistXamarin\todolistXamarin\obj\Debug\netstandard2.0\todolistXamarin.dll
+C:\Users\Sean Tin\source\repos\todolistXamarin\todolistXamarin\todolistXamarin\obj\Debug\netstandard2.0\ref\todolistXamarin.dll
+C:\Users\Sean Tin\source\repos\todolistXamarin\todolistXamarin\todolistXamarin\obj\Debug\netstandard2.0\todolistXamarin.pdb

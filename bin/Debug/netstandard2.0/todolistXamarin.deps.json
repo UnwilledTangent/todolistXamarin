@@ -1,0 +1,219 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.0/",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.0": {},
+    ".NETStandard,Version=v2.0/": {
+      "todolistXamarin/1.0.0": {
+        "dependencies": {
+          "NETStandard.Library": "2.0.3",
+          "Syncfusion.Xamarin.SfRichTextEditor": "17.3.0.28",
+          "Xamarin.Essentials": "1.2.0",
+          "Xamarin.Forms": "4.2.0.709249"
+        },
+        "runtime": {
+          "todolistXamarin.dll": {}
+        }
+      },
+      "Microsoft.NETCore.Platforms/1.1.0": {},
+      "NETStandard.Library/2.0.3": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "1.1.0"
+        }
+      },
+      "Syncfusion.Licensing/17.3.0.28": {
+        "runtime": {
+          "lib/netstandard2.0/Syncfusion.Licensing.dll": {
+            "assemblyVersion": "17.3.0.28",
+            "fileVersion": "17.3.0.28"
+          }
+        }
+      },
+      "Syncfusion.Xamarin.Buttons/17.3.0.28": {
+        "dependencies": {
+          "Syncfusion.Xamarin.Core": "17.3.0.28",
+          "Xamarin.Forms": "4.2.0.709249"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Syncfusion.Buttons.XForms.dll": {
+            "assemblyVersion": "17.3451.0.28",
+            "fileVersion": "17.3451.0.28"
+          }
+        }
+      },
+      "Syncfusion.Xamarin.Core/17.3.0.28": {
+        "dependencies": {
+          "Syncfusion.Licensing": "17.3.0.28",
+          "Xamarin.Forms": "4.2.0.709249"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Syncfusion.Core.XForms.dll": {
+            "assemblyVersion": "17.3451.0.28",
+            "fileVersion": "17.3451.0.28"
+          }
+        }
+      },
+      "Syncfusion.Xamarin.SfComboBox/17.3.0.28": {
+        "dependencies": {
+          "Syncfusion.Xamarin.Core": "17.3.0.28",
+          "Xamarin.Forms": "4.2.0.709249"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Syncfusion.SfComboBox.XForms.dll": {
+            "assemblyVersion": "17.3451.0.28",
+            "fileVersion": "17.3451.0.28"
+          }
+        }
+      },
+      "Syncfusion.Xamarin.SfPicker/17.3.0.28": {
+        "dependencies": {
+          "Syncfusion.Xamarin.Core": "17.3.0.28",
+          "Xamarin.Forms": "4.2.0.709249"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Syncfusion.SfPicker.XForms.dll": {
+            "assemblyVersion": "17.3451.0.28",
+            "fileVersion": "17.3451.0.28"
+          }
+        }
+      },
+      "Syncfusion.Xamarin.SfRichTextEditor/17.3.0.28": {
+        "dependencies": {
+          "Syncfusion.Xamarin.Buttons": "17.3.0.28",
+          "Syncfusion.Xamarin.Core": "17.3.0.28",
+          "Syncfusion.Xamarin.SfComboBox": "17.3.0.28",
+          "Syncfusion.Xamarin.SfPicker": "17.3.0.28",
+          "Xamarin.Forms": "4.2.0.709249"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Syncfusion.SfRichTextEditor.XForms.dll": {
+            "assemblyVersion": "17.3451.0.28",
+            "fileVersion": "17.3451.0.28"
+          }
+        }
+      },
+      "System.Numerics.Vectors/4.5.0": {
+        "runtime": {
+          "lib/netstandard2.0/System.Numerics.Vectors.dll": {
+            "assemblyVersion": "4.1.4.0",
+            "fileVersion": "4.6.26515.6"
+          }
+        }
+      },
+      "Xamarin.Essentials/1.2.0": {
+        "dependencies": {
+          "System.Numerics.Vectors": "4.5.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Xamarin.Essentials.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Xamarin.Forms/4.2.0.709249": {
+        "runtime": {
+          "lib/netstandard2.0/Xamarin.Forms.Core.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "4.2.0.75"
+          },
+          "lib/netstandard2.0/Xamarin.Forms.Platform.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "4.2.0.75"
+          },
+          "lib/netstandard2.0/Xamarin.Forms.Xaml.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "4.2.0.75"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "todolistXamarin/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.NETCore.Platforms/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-bLpT1f/SFlO1CzqXG12KnJzpZs6lv24uX2Rzi4Fmm0noJpNlnWRVryuO3yK18Ca04t/YHcO1e1Z0WDfjseqNzw==",
+      "path": "microsoft.netcore.platforms/1.1.0",
+      "hashPath": "microsoft.netcore.platforms.1.1.0.nupkg.sha512"
+    },
+    "NETStandard.Library/2.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-st47PosZSHrjECdjeIzZQbzivYBJFv6P2nv4cj2ypdI204DO+vZ7l5raGMiX4eXMJ53RfOIg+/s4DHVZ54Nu2A==",
+      "path": "netstandard.library/2.0.3",
+      "hashPath": "netstandard.library.2.0.3.nupkg.sha512"
+    },
+    "Syncfusion.Licensing/17.3.0.28": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-QEzu4RChxb/jBtA+XJCO3Kzgg9v7e6/RCqfFNtoQz2F1aWbzn8CXz8mdSiHa/SWptA/wQ7js16P9+e2ZUBXVrg==",
+      "path": "syncfusion.licensing/17.3.0.28",
+      "hashPath": "syncfusion.licensing.17.3.0.28.nupkg.sha512"
+    },
+    "Syncfusion.Xamarin.Buttons/17.3.0.28": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-wUl5/doPASaW7dyA8viMyfkiXRPDto3rwoiGgY08JqJFMlD+Y/jq2+Y49BgWfztGXQMTxcg8zJsHsYzFhfxFGA==",
+      "path": "syncfusion.xamarin.buttons/17.3.0.28",
+      "hashPath": "syncfusion.xamarin.buttons.17.3.0.28.nupkg.sha512"
+    },
+    "Syncfusion.Xamarin.Core/17.3.0.28": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-bo/f9ooD6ka2t1ZNAz/2g4q/wGQDm0301j2k1lQGcPwGRD2hxzeC3aJK9PpYaSrb9ZzE79y9PouO8kV8pNklWA==",
+      "path": "syncfusion.xamarin.core/17.3.0.28",
+      "hashPath": "syncfusion.xamarin.core.17.3.0.28.nupkg.sha512"
+    },
+    "Syncfusion.Xamarin.SfComboBox/17.3.0.28": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-yqG5dqngwtEBJxb2a52fDtV90kiKp6HrB9pud5EdKHJlehuFikXtvSwDBmyWfRxZKQU5w9XVPgUBnDjjYt5now==",
+      "path": "syncfusion.xamarin.sfcombobox/17.3.0.28",
+      "hashPath": "syncfusion.xamarin.sfcombobox.17.3.0.28.nupkg.sha512"
+    },
+    "Syncfusion.Xamarin.SfPicker/17.3.0.28": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-rXsqhWLou8l6PMd6b9WhKEzCNmS4xh4QM8uXlFo7oyPolWvc2pCQbHrwuCuXolVFNmysPXlmIHOzQ0b6lp1FcQ==",
+      "path": "syncfusion.xamarin.sfpicker/17.3.0.28",
+      "hashPath": "syncfusion.xamarin.sfpicker.17.3.0.28.nupkg.sha512"
+    },
+    "Syncfusion.Xamarin.SfRichTextEditor/17.3.0.28": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-KAArRoJ0uw6ljVj4jgyVflbO5HLnhBrkPvFPamJI9mDtYAuJGk4vCFoxcPFV/f1LZr4pj2ki/aMxeMJC8GOzpg==",
+      "path": "syncfusion.xamarin.sfrichtexteditor/17.3.0.28",
+      "hashPath": "syncfusion.xamarin.sfrichtexteditor.17.3.0.28.nupkg.sha512"
+    },
+    "System.Numerics.Vectors/4.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-QQTlPTl06J/iiDbJCiepZ4H//BVraReU4O4EoRw1U02H5TLUIT7xn3GnDp9AXPSlJUDyFs4uWjWafNX6WrAojQ==",
+      "path": "system.numerics.vectors/4.5.0",
+      "hashPath": "system.numerics.vectors.4.5.0.nupkg.sha512"
+    },
+    "Xamarin.Essentials/1.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-o3i5uAchUpAvAlJX0onYFFiDo6jpKl9vgvrdDtXEuEfum0UDrSx8oGGBUjlFyUoRpvWVumXwo0VS3AbzuwEofg==",
+      "path": "xamarin.essentials/1.2.0",
+      "hashPath": "xamarin.essentials.1.2.0.nupkg.sha512"
+    },
+    "Xamarin.Forms/4.2.0.709249": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-3DWqPSn9kSKJW5mwjmICV/+4IpPQrequEN1VXUhsF0i9KKnfj49jFk9VbJnT9o2aesJAk00NED67XPbSmbxKjw==",
+      "path": "xamarin.forms/4.2.0.709249",
+      "hashPath": "xamarin.forms.4.2.0.709249.nupkg.sha512"
+    }
+  }
+}
